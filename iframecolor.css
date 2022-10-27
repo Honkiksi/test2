@@ -1,0 +1,18 @@
+html {
+    background-color: rgb(26, 26, 26);
+}
+
+h1 {
+    color: aliceblue;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: aliceblue;
+  }
+
+  p{
+    color: aliceblue;
+  }

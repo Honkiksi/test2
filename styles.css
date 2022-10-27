@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(14, 14, 14);
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Gaslight with russian Cyrillic;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: aliceblue;
+  }
+
+  p{
+    color: aliceblue;
+  }
+
+  
